@@ -1,0 +1,97 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "UsILDoIB2S7ra+w2fMdb85mX3HM=",
+			"path": "github.com/gin-gonic/gin/binding",
+			"revision": "e2212d40c62a98b388a5eb48ecbdcf88534688ba",
+			"revisionTime": "2016-12-04T22:13:08Z"
+		},
+		{
+			"checksumSHA1": "PHv9FNb7YavJWtAHcY6ZgXmkmHs=",
+			"path": "github.com/gin-gonic/gin/render",
+			"revision": "e2212d40c62a98b388a5eb48ecbdcf88534688ba",
+			"revisionTime": "2016-12-04T22:13:08Z"
+		},
+		{
+			"checksumSHA1": "HmbftipkadrLlCfzzVQ+iFHbl6g=",
+			"path": "github.com/golang/glog",
+			"revision": "23def4e6c14b4da8ac2ed8007337bc5eb5007998",
+			"revisionTime": "2016-01-25T20:49:56Z"
+		},
+		{
+			"checksumSHA1": "Yz1gT/uux3UsjbGDG/OP7gZREY0=",
+			"path": "github.com/golang/protobuf/proto",
+			"revision": "3b06fc7a4cad73efce5fe6217ab6c33e7231ab4a",
+			"revisionTime": "2016-06-01T15:17:05Z"
+		},
+		{
+			"checksumSHA1": "b0T0Hzd+zYk+OCDTFMps+jwa/nY=",
+			"path": "github.com/manucorporat/sse",
+			"revision": "ee05b128a739a0fb76c7ebd3ae4810c1de808d6d",
+			"revisionTime": "2016-01-26T18:01:36Z"
+		},
+		{
+			"checksumSHA1": "9jjO5GjLa0XF/nfWihF02RoH4qc=",
+			"path": "golang.org/x/net/context",
+			"revision": "2a35e686583654a1b89ca79c4ac78cb3d6529ca3",
+			"revisionTime": "2016-05-06T19:47:26Z"
+		},
+		{
+			"checksumSHA1": "zNFEOoeec0BkWWa9sHGEnxhz90k=",
+			"path": "gopkg.in/gin-gonic/gin.v1",
+			"revision": "041ca04a4768ededad44dcc2748f3d47e4b59bde",
+			"revisionTime": "2016-12-03T21:10:08Z"
+		},
+		{
+			"checksumSHA1": "39V1idWER42Lmcmg2Uy40wMzOlo=",
+			"path": "gopkg.in/go-playground/validator.v8",
+			"revision": "5f57d2222ad794d0dffb07e664ea05e2ee07d60c",
+			"revisionTime": "2016-07-18T13:41:25Z"
+		},
+		{
+			"checksumSHA1": "o/QlbwELfEeuQo1mR8ytyjoNKyE=",
+			"path": "gopkg.in/redis.v5",
+			"revision": "b9cc17bae020d9c1f467ca0f27d7706c1683c370",
+			"revisionTime": "2017-01-03T11:06:30Z"
+		},
+		{
+			"checksumSHA1": "MQzDJNByeq6grpHXL0iD9S996h4=",
+			"path": "gopkg.in/redis.v5/internal",
+			"revision": "b9cc17bae020d9c1f467ca0f27d7706c1683c370",
+			"revisionTime": "2017-01-03T11:06:30Z"
+		},
+		{
+			"checksumSHA1": "2Ek4SixeRSKOX3mUiBMs3Aw+Guc=",
+			"path": "gopkg.in/redis.v5/internal/consistenthash",
+			"revision": "b9cc17bae020d9c1f467ca0f27d7706c1683c370",
+			"revisionTime": "2017-01-03T11:06:30Z"
+		},
+		{
+			"checksumSHA1": "rJYVKcBrwYUGl7nuuusmZGrt8mY=",
+			"path": "gopkg.in/redis.v5/internal/hashtag",
+			"revision": "b9cc17bae020d9c1f467ca0f27d7706c1683c370",
+			"revisionTime": "2017-01-03T11:06:30Z"
+		},
+		{
+			"checksumSHA1": "yLZQUKNxXzwGlzfXhWC0Mwme2nw=",
+			"path": "gopkg.in/redis.v5/internal/pool",
+			"revision": "b9cc17bae020d9c1f467ca0f27d7706c1683c370",
+			"revisionTime": "2017-01-03T11:06:30Z"
+		},
+		{
+			"checksumSHA1": "k7baRE424licGN0aZw9JPxfyVNg=",
+			"path": "gopkg.in/redis.v5/internal/proto",
+			"revision": "b9cc17bae020d9c1f467ca0f27d7706c1683c370",
+			"revisionTime": "2017-01-03T11:06:30Z"
+		},
+		{
+			"checksumSHA1": "+OgOXBoiQ+X+C2dsAeiOHwBIEH0=",
+			"path": "gopkg.in/yaml.v2",
+			"revision": "a83829b6f1293c91addabc89d0571c246397bbf4",
+			"revisionTime": "2016-03-01T20:40:22Z"
+		}
+	],
+	"rootPath": "github.com/collinmsn/pcc2017"
+}
